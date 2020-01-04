@@ -1,0 +1,5 @@
+C:/IPS/Projects/CppDistro/myGeme/Arkanoid/CMakeFiles/edit_cache.dir
+C:/IPS/Projects/CppDistro/myGeme/Arkanoid/CMakeFiles/rebuild_cache.dir
+C:/IPS/Projects/CppDistro/myGeme/Arkanoid/arkanoid/CMakeFiles/edit_cache.dir
+C:/IPS/Projects/CppDistro/myGeme/Arkanoid/arkanoid/CMakeFiles/arkanoid.dir
+C:/IPS/Projects/CppDistro/myGeme/Arkanoid/arkanoid/CMakeFiles/rebuild_cache.dir
